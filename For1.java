@@ -1,9 +1,9 @@
 
 public class For1 {
     public static void main(String[] args) {
-        int i=10;
-        for(int a=i;a>0;a--){
-            System.out.println(i);
+        
+        for(int a=10;a>0;a--){
+            System.out.println(a);
         }
         System.out.println("HAPPY NEW YAER!");
     }
