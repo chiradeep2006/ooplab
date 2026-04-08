@@ -1,0 +1,9 @@
+public class Retail_Shop
+{
+public static void main (String []args)
+{
+System.out.print("post 3 print statements\n")
+System.out.print("do your homework\n")
+System.out.print("hello word\n")
+}
+}
